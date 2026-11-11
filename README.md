@@ -84,4 +84,4 @@ Containerizing the application using Docker for scalable cloud deployment.
 
 🔗 SDAIA Academy GitHub Repository Link
 
-Repository URL: GitHub Repository Link
+Repository URL: [GitHub Repository Link](https://github.com/SDAIAAcademy)
